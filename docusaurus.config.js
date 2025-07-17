@@ -71,7 +71,7 @@ const config = {
         },
         items: [
           {
-            href: '',
+            href: 'https://averyai.ca/',
             label: 'Visit Site',
             position: 'right',
           },
