@@ -51,7 +51,7 @@ Welcome to **AveryAI**! Follow this step-by-step guide to set up your account an
 
 ## Create an Resume
 
-1. Click **"Resumes"** to navigate resume dashboard.
+1. Click **"Resumes"** to navigate to the resume dashboard.
 
 2. Click **"+ Create Resume"** button to generate your resume.
 
@@ -65,7 +65,7 @@ Welcome to **AveryAI**! Follow this step-by-step guide to set up your account an
 
    <img src="/img/getting-started/resumedetails.png" style={{width:"80%"}}/>
 
-5. Put in **Professionel Summary** for your resume.
+5. Put in for **Professionel Summary**.
 
    <img src="/img/getting-started/resumesummary.png" style={{width:"80%"}}/>
 
