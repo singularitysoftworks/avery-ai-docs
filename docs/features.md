@@ -1,6 +1,7 @@
 ---
 id: features
-sidebar-position: 2
+sidebar_position: 2
+title: 🚀 Features of AveryAI
 ---
 
 # 🚀 Features of AveryAI
