@@ -1,5 +1,5 @@
 ---
-id: getting-started
+id: Start Your Journey
 sidebar_position: 3
 title: 🌟 Start Your Journey
 ---
