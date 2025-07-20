@@ -8,7 +8,7 @@ title: 💰 Pricing Plans
 
 ---
 
-### 📋 Our Plans
+### Our Plans
 
 #### **Free Plan**
 
