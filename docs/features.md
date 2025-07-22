@@ -8,3 +8,17 @@ title: 🚀 Features of AveryAI
 
 ---
 
+## Resume Workshop
+
+---
+
+## Interview Analysis
+
+---
+
+## Multi-language Support
+
+---
+
+## Subscription Tiers
+
