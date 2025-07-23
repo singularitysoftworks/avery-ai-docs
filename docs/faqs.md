@@ -28,7 +28,7 @@ And that's it—you’re ready to go!
 Yes! The **Free Plan** allows you to explore AveryAI with:
 
 - 3 free mock interviews
-- 3 free limited resume creations
+- 3 free resume creations
 
 ---
 

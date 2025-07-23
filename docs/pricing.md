@@ -15,7 +15,7 @@ title: 💰 Pricing Plans
 - **Price**: $0 /month
 - **Features**:
   - 3 free mock interviews
-  - 3 free limited resume creations
+  - 3 free resume creations
   - Basic AI feedback
   - Limited question bank access
   - No interview analytics
