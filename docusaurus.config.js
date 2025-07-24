@@ -78,7 +78,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         copyright: `Copyright © ${new Date().getFullYear()} Singularity Softworks Inc. All rights reserved`,
       },
       prism: {

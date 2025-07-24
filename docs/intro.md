@@ -23,9 +23,9 @@ AveryAI guides you through the full preparation process, from resume building to
 
 Receive personalized insights, constructive feedback, and performance breakdowns powered by advanced language models, all in real time.
 
-**🌐 Multi-Language Support**
+**📚 Extensive Question Bank**
 
-Practice and prepare in the language you’re most comfortable with. AveryAI breaks language barriers, making preparation more inclusive and accessible.
+Gives you access to a robust and ever-growing library of interview questions tailored to different industries, roles, and experience levels.
 
 **📄 Resume Tailoring Made Simple**
 
@@ -39,9 +39,10 @@ Simulate live interviews with dynamic questions and get immediate feedback to bo
 
 ## Key Features at a Glance
 
-- **Multi-language Support:** Prepare in multiple languages to match your target region or comfort zone.
-- **Interview Analysis:** Receive structured feedback on clarity, confidence, pacing, and content quality.
-- **Resume Workshop:** Generate tailored bullet points, review your formatting, and optimize for ATS-readiness.
+- **AI-Powered Interview Practice:** Receive structured feedback on clarity, confidence, pacing, and content quality.
+- **Resume Workshop & Analysis:** Generate tailored bullet points, review your formatting, and optimize for ATS-readiness.
+- **Expert-Level Feedback & Insights:** Provides targeted, actionable insights that mimic feedback from real interview coaches.
+- **Extensive Question Bank:** Practice with thousands of curated questions across industries, roles, and difficulty levels.
 - **Subscription Tiers:** Choose a plan that fits your goals; start with the Free version to explore core features, or upgrade to Pro for advanced tools, deeper insights, and unlimited practice sessions.
 
 ---
@@ -51,7 +52,7 @@ Simulate live interviews with dynamic questions and get immediate feedback to bo
 This guide is for:
 - **Job seekers** aiming to prepare efficiently and confidently.
 - **Students and recent graduates** looking to improve interview readiness.
-- **Career changers** updating thier resumes and practicing their pitch.
+- **Career changers** updating their resumes and practicing their pitch.
 - **Anyone** looking to sharpen their communication and interview performance using AI-enhanced tools.
 
 ---
